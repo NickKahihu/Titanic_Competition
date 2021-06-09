@@ -10,6 +10,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 From the **Titanic Competition** homepage on Kaggle which can be viewed in its entirety [here](https://www.kaggle.com/c/titanic)
 
+My entire work on this competition, from start to finish, can be seen [here](https://nbviewer.jupyter.org/github/NickKahihu/titanic/blob/master/Titanic_Competition.ipynb)
+
 ## Goal:
 This competition requires the use of machine learning to create a model that predicts whether or not a passenger survived the Titanic shipwreck.
 
@@ -25,3 +27,5 @@ Choosing the best model to use
 Hyperparameter tuning of the best model
 
 Making the predictions and submitting to Kaggle
+
+
