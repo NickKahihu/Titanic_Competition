@@ -29,3 +29,13 @@ Hyperparameter tuning of the best model
 Making the predictions and submitting to Kaggle
 
 
+## Main Libraries used
+1. Pandas
+
+2. Numpy
+
+3. Matplotlib
+
+4. Seaborn
+
+5. Sklearn
